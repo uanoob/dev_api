@@ -1,0 +1,8 @@
+{
+  "name": "dev_api",
+  "version": "1.0.0",
+  "description": "Express server",
+  "main": "index.js",
+  "repository": "git@github.com:uanoob/dev_api.git",
+  "license": "MIT"
+}
